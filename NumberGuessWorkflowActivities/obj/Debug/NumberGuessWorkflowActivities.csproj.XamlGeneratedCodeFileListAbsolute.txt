@@ -1,0 +1,4 @@
+obj\Debug\_NumberGuessWorkflowActivities.g.cs
+obj\Debug\Prompt.g.cs
+obj\Debug\NumberGuessWorkflowActivities_Prompt_BeforeInitializeComponentHelper.cs
+I:\Study\WorkFlows\WF\NumberGuessWorkflowActivities\obj\Debug\NumberGuessWorkflowActivities_Prompt_CompiledExpressionRoot.cs

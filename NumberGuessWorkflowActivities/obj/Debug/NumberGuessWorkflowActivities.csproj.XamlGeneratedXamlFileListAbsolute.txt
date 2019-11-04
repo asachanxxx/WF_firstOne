@@ -1,0 +1,2 @@
+obj\Debug\Prompt.g.xaml
+obj\Debug\NumberGuessWorkflowActivities_Prompt_BeforeInitializeComponentHelper.txt
